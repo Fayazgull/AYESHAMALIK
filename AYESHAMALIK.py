@@ -194,7 +194,7 @@ def menu():
 				print(logo)
 				
 				linex()
-				print(' Example : /sdcard/NOOB.txt')
+				print(' Example : /sdcard/AYESHA.txt')
 				linex()
 				file = input(' Put file path\033[1;37m: ')
 				try:
@@ -276,7 +276,7 @@ def menu():
 		
 def mmm(ids,names,passlist):
 	global loop,oks,cps
-	sys.stdout.write(f'\r\x1b[1;97m[\033[1;97mMR.NOOB\033[1;97m] %s|\x1b[1;92mOK:-%s \x1b[1;97m\r'%(loop,len(oks))),
+	sys.stdout.write(f'\r\x1b[1;97m[\033[1;97mMR.AYESHA\033[1;97m] %s|\x1b[1;92mOK:-%s \x1b[1;97m\r'%(loop,len(oks))),
 	session = requests.Session()
 	try:
 		first = names.split(' ')[0]
