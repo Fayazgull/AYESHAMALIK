@@ -150,17 +150,19 @@ awan =[
 'Mozilla/5.0 (Linux; Android 10; LM-X420) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Mobile Safari/537.36',
 'Mozilla/5.0 (Linux; Android 10; LM-Q710(FGN)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Mobile Safari/537.36',]
 logo=("""\033[1;97m
-     d8b   db  .d88b.   .d88b.  d8888b. 
-     888o  88 .8P  Y8. .8P  Y8. 88  `8D 
-     \x1b[1;91m88V8o 88 88    88 88    88 88oooY' 
-     \x1b[1;91m88 V8o88 88    88 88    88 88~~~b. 
-   \x1b[1;97m  88  V888 `8b  d8' `8b  d8' 88   8D 
-     VP   V8P  `Y88P'   `Y88P'  Y8888P'
+     /$$$$$$  /$$     /$$ /$$$$$$$$  /$$$$$$  /$$   /$$  /$$$$$$       
+ /$$__  $$|  $$   /$$/| $$_____/ /$$__  $$| $$  | $$ /$$__  $$      
+| $$  \ $$ \  $$ /$$/ | $$      | $$  \__/| $$  | $$| $$  \ $$      
+| $$$$$$$$  \  $$$$/  | $$$$$   |  $$$$$$ | $$$$$$$$| $$  | $$      
+| $$__  $$   \  $$/   | $$__/    \____  $$| $$__  $$| $$  | $$      
+| $$  | $$    | $$    | $$       /$$  \ $$| $$  | $$| $$  | $$      
+| $$  | $$    | $$    | $$$$$$$$|  $$$$$$/| $$  | $$|  $$$$$$/      
+|__/  |__/    |__/    |________/ \______/ |__/  |__/ \______/
 \33[1;37m----------------------------------------------
 →   Owner      :  MR.AYESHA
 →   Facebook   :  AYESHA MALIK
 →   Github     :  AYESHAMALIK
-→   Tool Type  :  \x1b[1;91mFREE
+→   Tool Type  :  \x1b[1;91mMERI MARZI PAID KRON YA FREE🙈
 \x1b[1;97m→   Version    :  1.1
 \33[1;37m----------------------------------------------""")
 def linex():
@@ -347,7 +349,7 @@ application_version_code=str(random.randint(000000000,999999999))
 ua_ios = 'Mozilla/5.0 (iPhone, CPU iPhone '+version+'_'+osv+' like Mac OS '+version+') AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/'+ipsw+' [FBAN/FBIOS;FBAV/'+application_version+';FBBV/'+application_version_code+';FBDV/'+version+'.'+osv+';FBMD/iPhone;FBSN/iOS;FBSV/'+version+'.'+osv+';FBSS/2;FBCR/Reliance JIO;FBID/phone;FBLC/en_US;FBOP/5;FBIA/FBIOS;]'
 def ffb(ids,names,passlist):
 	global loop,oks,cps
-	sys.stdout.write(f'\r\x1b[1;97m[\033[1;97mMR.NOOB\033[1;97m] %s|\x1b[1;92mOK:-%s \x1b[1;97m\r'%(loop,len(oks))),
+	sys.stdout.write(f'\r\x1b[1;97m[\033[1;97mMR.AYESHA\033[1;97m] %s|\x1b[1;92mOK:-%s \x1b[1;97m\r'%(loop,len(oks))),
     
 	session = requests.Session()
 	try:
